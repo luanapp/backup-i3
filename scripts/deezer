@@ -1,0 +1,3 @@
+#!/bin/sh
+
+flatpak run com.gitlab.ColinDuquesnoy.MellowPlayer & 2>&1 /dev/null
